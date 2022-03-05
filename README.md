@@ -1,16 +1,14 @@
-### Hi there 👋
+# Introdution
+Hello, my name is Aly-Ant.
+I'm Coder, Animator and Artist
 
-<!--
-**Aly-Ant0/Aly-Ant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Questions
+QUES. 1: What you use for drawings or animations?
+Macromedia Flash 8
+Ibis Paint X
+Krita
 
-Here are some ideas to get you started:
+QUES. 2: How older you're?
+12 (13 in 15 july)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aly-Ant0&show_icons=true&theme=radical)

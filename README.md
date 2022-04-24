@@ -12,6 +12,6 @@ Ibis Paint X, Krita and Macromedia Flash 8 for FNF Sprites or something.
 
 Its a long story.
 
-# What program languege that use?
+# What programming language that use?
 
 Haxe.
